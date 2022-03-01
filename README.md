@@ -7,4 +7,4 @@
 
 4) Third contract (Ownableloca.sol) further expands on the second contract where I have tested the function of transferring ownership to another wallet.
 
-5) The contract.py was an attempt of deploying the greeter contract using python in Microsoft Azure
+5) The contract.py deploys the greeter contract using python in Microsoft Azure
